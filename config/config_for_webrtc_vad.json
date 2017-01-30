@@ -1,0 +1,6 @@
+{
+    "Min_Silence": 0.3,
+    "Min_Speech": 0.05,
+    "f1": 0.9385095400800034,
+    "method": "webrtc"
+}
