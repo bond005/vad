@@ -1,0 +1,9 @@
+{
+    "Energy_PrimThresh": 90.0,
+    "F_PrimThresh": 140.0,
+    "Min_Silence": 0.1,
+    "Min_Speech": 0.1,
+    "SF_PrimThresh": 11.0,
+    "f1": 0.970613263547399,
+    "method": "adapt"
+}
